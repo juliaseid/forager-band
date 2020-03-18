@@ -2,16 +2,23 @@
   float: left;
   width: 50%;
   background-color: darkgoldenrod;
-  color: navy;
+  color: midnightblue;
 }
 
 .tour {
   float: right;
   width: 50%;
-  background-color: navy;
+  background-color: midnightblue;
   color: darkgoldenrod;
 }
 
+.sidebar {
+  margin: 8px;
+  border: 4px solid burlywood;
+  padding: 4px;
+  background-color: maroon;
+}
+
 img {
-  height 500px;
+  height: 500px;
 }
