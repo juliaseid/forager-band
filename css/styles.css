@@ -1,0 +1,17 @@
+.albums {
+  float: left;
+  width: 50%;
+  background-color: darkgoldenrod;
+  color: navy;
+}
+
+.tour {
+  float: right;
+  width: 50%;
+  background-color: navy;
+  color: darkgoldenrod;
+}
+
+img {
+  height 500px;
+}
